@@ -1,0 +1,20 @@
+# File CSV generati dagli script (possono contenere dati sensibili)
+*.csv
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambienti virtuali
+venv/
+.env/
+env/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
