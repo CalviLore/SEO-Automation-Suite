@@ -24,7 +24,7 @@ Come si usa:
  1. Assicurati di avere un file CSV con una colonna "Keyword".
  2. Modifica la variabile `FILE_INPUT` con il nome del tuo CSV.
  3. Imposta `NUM_CLUSTER` in base a quanti gruppi vuoi ottenere.
- 4. Lancia: python nlp_keyword_cluster.py
+ 4. Lancia: python keyword_cluster.py
 
 Dipendenze richieste:
  pip install pandas scikit-learn numpy
